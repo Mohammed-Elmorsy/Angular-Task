@@ -1,0 +1,24 @@
+#cardWrapper{
+    padding: 30px;
+}
+
+.card:hover{
+    cursor: grab;
+}
+.card:active, .card:focus{
+    cursor: grabbing;
+}
+
+#loadingImg{
+    position: absolute;
+    top: 30%;
+    left: 30%;
+    border-radius: 50%;
+}
+
+#notFoundImg{
+    position: absolute;
+    top: 25%;
+    left: 25%;
+    border-radius: 30px;
+}
