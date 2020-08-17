@@ -4,7 +4,6 @@
 
 export const environment = {
   production: false,
-  baseURL:'https://swapi.dev/api/people/?search=' 
 };
 
 /*
